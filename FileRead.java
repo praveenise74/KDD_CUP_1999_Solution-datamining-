@@ -183,10 +183,7 @@ public class FileRead {
 		     System.out.println(""+range);
 		    }
 		    	
-			/*BufferedWriter bw1 = new BufferedWriter(
-					new FileWriter("C:/Users/prave/Desktop/Data_mining/filtered file/pattern"+k/3+ ".txt"));
-			bw1.write(range);
-			//bw1.newLine();*/
+	
 		    
 		} System.out.println("\n\n\n\n");
 	z=z+3;	}
